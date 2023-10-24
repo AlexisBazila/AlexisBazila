@@ -4,13 +4,13 @@
 
 <br clear="both">
 
-<img align="left" height="300" src="https://i.ibb.co/p25gc8v/fotor-ai-2023102414531.jpg"  />
+<img align="left" height="200" src="https://i.ibb.co/p25gc8v/fotor-ai-2023102414531.jpg"  />
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexisBazila&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=omni&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AlexisBazila&locale=en&mode=daily&theme=omni&hide_border=false&border_radius=5" height="300" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlexisBazila&locale=en&mode=daily&theme=omni&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
