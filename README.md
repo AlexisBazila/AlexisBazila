@@ -2,31 +2,14 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://i.ibb.co/p25gc8v/fotor-ai-2023102414531.jpg"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexisBazila&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=omni&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AlexisBazila&locale=en&mode=daily&theme=omni&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AlexisBazila/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img height="200" src="https://i.ibb.co/p25gc8v/fotor-ai-2023102414531.jpg"  />
 </div>
 
 ###
@@ -45,8 +28,25 @@
 
 ###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexisBazila&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=false&disable_animations=false&theme=omni&locale=en&hide_border=false&custom_title=Stats" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=AlexisBazila&locale=en&mode=daily&theme=omni&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AlexisBazila/count.svg?"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
 ###
