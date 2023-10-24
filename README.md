@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ibb.co/BLFmbxV"><img src="https://i.ibb.co/wyjTVXN/fotor-ai-2023102414531.jpg" alt="fotor-ai-2023102414531" border="0" /></a>
+  <a href="https://ibb.co/BLFmbxV"><img src="https://i.ibb.co/wyjTVXN/fotor-ai-2023102414531.jpg" alt="fotor-ai-2023102414531" border="0" height="300" /></a>
 </div>
 
 ###
